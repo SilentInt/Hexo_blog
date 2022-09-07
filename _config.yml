@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Silent的小窝
-subtitle: ''
+title: SilentInt的小窝
+subtitle: '曾经沧海难为水，除却巫山不是云'
 description: ''
 keywords:
-author: Silent
+author: SilentInt
 language: en
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://silentint.github.io
+url: https://silentint.tk
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
