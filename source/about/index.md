@@ -1,5 +1,6 @@
 ---
 title: about
+type: "about"
 date: 2022-09-10 12:43:00
 ---
 
