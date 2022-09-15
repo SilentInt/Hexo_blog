@@ -194,10 +194,10 @@ post_copyright:
 reward:
   enable: true
   QR_code:
-    - img: /img/wechat.jpg
+    - img: https://s2.loli.net/2022/09/15/dG1E3UkvKMT9lZh.png
     #   link:
       text: wechat
-    - img: /img/alipay.jpg
+    - img: https://s2.loli.net/2022/09/15/E6gbQrFzC1ODtyZ.png
     #   link:
       text: alipay
 
