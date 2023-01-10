@@ -66,10 +66,12 @@ int sprintf(char *str, const char *format, ...);
 str:指向存放处理结果的数组
 format:一系列用于描述如何处理字符序列的转换指令(directive)
 ...：pointer arguments，用于指向待处理的输入数据
+
 ## 转换说明(conversion specification)
 每个转换说明由%开头，由转换标识符(conversion specifier)结束
 中间为可选的标识(flags)
 最小位宽(field width) 精度(precision) 长度调整(length modifier)
+普通字符将按照原样输出
 ## Flag characters
 % 后跟随的标识
 - \#:
